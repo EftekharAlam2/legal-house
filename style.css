@@ -7,7 +7,29 @@
   background-size: cover;
   min-height: 60vh;
 }
+.ek-word {
+  font-family: "EB Garamond";
+  font-style: normal;
+}
+.ek-m {
+  margin-top: 150px;
+}
+.ek-m img {
+  width: 5rem;
+}
 
 .d-none {
   display: none;
+}
+
+@media screen and (max-width: 556px) {
+  .ek-m {
+    margin-top: 0px;
+  }
+  .ek-m img {
+    width: 2rem;
+  }
+  .ek-m p {
+    font-size: 7px;
+  }
 }
