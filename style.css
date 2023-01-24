@@ -17,7 +17,6 @@
 .ek-m img {
   width: 5rem;
 }
-
 .d-none {
   display: none;
 }
@@ -31,5 +30,8 @@
   }
   .ek-m p {
     font-size: 7px;
+  }
+  .ek-i {
+    width: 100%;
   }
 }
