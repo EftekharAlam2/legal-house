@@ -17,9 +17,6 @@
 .ek-m img {
   width: 5rem;
 }
-.d-none {
-  display: none;
-}
 
 @media screen and (max-width: 556px) {
   .ek-m {
